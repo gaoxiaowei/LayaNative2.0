@@ -1,0 +1,7454 @@
+{
+    "frames": {
+        "boy1-applaud_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-applaud_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_D_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 97,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_L_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_R_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-beckon_U_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_D_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 0,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1649,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_L_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1552,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1552,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_R_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1067,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 970,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1649,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1552,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-celebrate_U_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1649,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1552,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1649,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1552,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1649,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1552,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-cheer_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1455,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1358,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1261,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 1164,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 485,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 291,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-ease_idle_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 194,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 388,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 873,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 776,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_D_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 679,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 1,
+                "w": 96,
+                "x": 582,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_L_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 388,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_R_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-embrace_U_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 485,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_D_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 0,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 291,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_L_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 194,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 97,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 582,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_R_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-idle_U_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_D_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 1088
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_L_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 679,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1164,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1067,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 970,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_19.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 873,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_R_20.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1904
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_00.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1768
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_01.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1632
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_02.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1496
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_03.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1360
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_04.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 1224
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_05.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1261,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_06.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 952
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_07.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 816
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_08.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 680
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_09.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 544
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_10.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 408
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_11.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 776,
+                "y": 272
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_12.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1940,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_13.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1843,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_14.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1746,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_15.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1649,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_16.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1552,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_17.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1455,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "boy1-walk_U_18.png": {
+            "frame": {
+                "h": 135,
+                "idx": 0,
+                "w": 96,
+                "x": 1358,
+                "y": 136
+            },
+            "sourceSize": {
+                "h": 135,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "boy1.png,boy11.png",
+        "prefix": "ren/boy1/"
+    }
+}

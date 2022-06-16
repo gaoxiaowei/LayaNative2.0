@@ -1,0 +1,161 @@
+{
+    "frames": {
+        "jidan_01.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_02.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 154,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_03.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 308,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_04.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 0,
+                "y": 138
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_05.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 0,
+                "y": 276
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_06.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 154,
+                "y": 138
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_07.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 308,
+                "y": 138
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_08.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 154,
+                "y": 276
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "jidan_09.png": {
+            "frame": {
+                "h": 137,
+                "idx": 0,
+                "w": 153,
+                "x": 308,
+                "y": 276
+            },
+            "sourceSize": {
+                "h": 137,
+                "w": 153
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "fx_jidan.png",
+        "prefix": "texture/fx_jidan/"
+    }
+}

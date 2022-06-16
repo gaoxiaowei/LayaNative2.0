@@ -83,5 +83,12 @@
         }
     });
 }
++ (void)launchComplete {
+    dispatch_async(dispatch_get_main_queue(), ^{
+        NSString *js =@"window.ZM.invoke(\"initRoom\", {\"roomid\":\"713152-xoxLDl8t\",\"x\":92,\"oprate_entity\":[],\"nickname\":\"\",\"mapid\":1,\"y\":76,\"role_id\":6,\"direction\":2,\"users\":[],\"game_uid\":\"6EfIjThGA\"})";
+        [[conchRuntime GetIOSConchRuntime] runJS:js];
+    });
+}
+
 @end
 

@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "entity_40.png": {
+            "frame": {
+                "h": 208,
+                "idx": 0,
+                "w": 112,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 208,
+                "w": 112
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "entity_40.png",
+        "prefix": "texture/entity_40/"
+    }
+}

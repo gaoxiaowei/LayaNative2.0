@@ -2,23 +2,18 @@
 #import "ViewController.h"
 #import "conchRuntime.h"
 #import "NavViewController.h"
+#import "MainViewController.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     _window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] ;
-    ViewController* pViewController  = [[ViewController alloc] init];
-    //_window.rootViewController = pViewController;
-    [_window makeKeyAndVisible];
-    
-     _launchView = [[LaunchView alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    [_window.rootViewController.view addSubview:_launchView.view];
-    
-    self.navigationController = [[NavViewController alloc] init];
-    [self.navigationController pushViewController:pViewController animated:YES];
+    _window.backgroundColor=[UIColor whiteColor];
+    MainViewController* pViewController  = [[MainViewController alloc] init];
+    self.navigationController = [[NavViewController alloc] initWithRootViewController:pViewController];
     _window.rootViewController = self.navigationController;
-    [_window.rootViewController.view addSubview:_launchView.view];
+    [_window makeKeyAndVisible];
     return YES;
 }
 

@@ -1,0 +1,195 @@
+{
+    "frames": {
+        "idle8_0001.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 90,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 83,
+                "y": 82
+            }
+        },
+        "idle8_0002.png": {
+            "frame": {
+                "h": 114,
+                "idx": 0,
+                "w": 114,
+                "x": 0,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 69
+            }
+        },
+        "idle8_0003.png": {
+            "frame": {
+                "h": 114,
+                "idx": 0,
+                "w": 114,
+                "x": 115,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 69
+            }
+        },
+        "idle8_0004.png": {
+            "frame": {
+                "h": 114,
+                "idx": 0,
+                "w": 114,
+                "x": 230,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 71,
+                "y": 69
+            }
+        },
+        "idle8_0005.png": {
+            "frame": {
+                "h": 107,
+                "idx": 0,
+                "w": 108,
+                "x": 345,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 74,
+                "y": 72
+            }
+        },
+        "idle8_0006.png": {
+            "frame": {
+                "h": 100,
+                "idx": 0,
+                "w": 102,
+                "x": 115,
+                "y": 115
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 77,
+                "y": 76
+            }
+        },
+        "idle8_0007.png": {
+            "frame": {
+                "h": 88,
+                "idx": 0,
+                "w": 88,
+                "x": 218,
+                "y": 115
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 84,
+                "y": 84
+            }
+        },
+        "idle8_0008.png": {
+            "frame": {
+                "h": 92,
+                "idx": 0,
+                "w": 92,
+                "x": 307,
+                "y": 115
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 82,
+                "y": 82
+            }
+        },
+        "idle8_0009.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 70,
+                "x": 400,
+                "y": 108
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 93,
+                "y": 93
+            }
+        },
+        "idle8_0010.png": {
+            "frame": {
+                "h": 74,
+                "idx": 0,
+                "w": 74,
+                "x": 400,
+                "y": 179
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 91,
+                "y": 91
+            }
+        },
+        "idle8_0011.png": {
+            "frame": {
+                "h": 23,
+                "idx": 0,
+                "w": 17,
+                "x": 91,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 256,
+                "w": 256
+            },
+            "spriteSourceSize": {
+                "x": 117,
+                "y": 123
+            }
+        }
+    },
+    "meta": {
+        "image": "texiao_11043.png",
+        "prefix": "texture/texiao_11043/"
+    }
+}

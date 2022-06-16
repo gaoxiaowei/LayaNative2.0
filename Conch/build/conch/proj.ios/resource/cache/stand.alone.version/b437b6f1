@@ -1,0 +1,212 @@
+{
+    "frames": {
+        "animated_cat01.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat02.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat03.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 49
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat04.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 49
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat05.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 98
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat06.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 98
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat07.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 147
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat08.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 147
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat09.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 196
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat10.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 196
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat11.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 245
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "animated_cat12.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 144,
+                "x": 145,
+                "y": 245
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "daoju_cat.png",
+        "prefix": "texture/daoju_cat/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "entity_53.png": {
+            "frame": {
+                "h": 96,
+                "idx": 0,
+                "w": 192,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 192
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "entity_53.png",
+        "prefix": "texture/entity_53/"
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "frames": {
+        "effects_aixin01.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin02.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 180,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin03.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 360,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin04.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 540,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin05.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 720,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin06.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 0,
+                "y": 164
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin07.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 0,
+                "y": 328
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin08.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 0,
+                "y": 492
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin09.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 0,
+                "y": 656
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin10.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 180,
+                "y": 164
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin11.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 360,
+                "y": 164
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin12.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 540,
+                "y": 164
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin13.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 720,
+                "y": 164
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin14.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 180,
+                "y": 328
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin15.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 180,
+                "y": 492
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin16.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 180,
+                "y": 656
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin17.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 360,
+                "y": 328
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin18.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 540,
+                "y": 328
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin19.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 720,
+                "y": 328
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin20.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 360,
+                "y": 492
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "effects_aixin21.png": {
+            "frame": {
+                "h": 163,
+                "idx": 0,
+                "w": 179,
+                "x": 360,
+                "y": 656
+            },
+            "sourceSize": {
+                "h": 163,
+                "w": 179
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "fx_aixin.png",
+        "prefix": "texture/fx_aixin/"
+    }
+}

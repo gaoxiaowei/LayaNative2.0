@@ -1,16 +1,15 @@
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
         function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
         function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 window._conchInfo = { version: '2.1.3.1' };
-var _inline = !conchConfig.localizable;
+var _inline = false;
 console.log('======================================================  ');
 console.log('             LAYA CONCH            ');
 console.log('     runtimeversion:' + conchConfig.getRuntimeVersion());
@@ -25,6 +24,9 @@ if (conchConfig.getOS() == "Conch-ios") {
 }
 function loadLib(url) {
     var script = document.createElement("script");
+    if (url.indexOf("laya.physics3D.js") >= 0) {
+        url = url.replace("laya.physics3D.js", "laya.physics3D.runtime.js");
+    }
     script.src = url;
     script.onerror = function () {
         if (window["onLayaInitError"]) {
@@ -32,9 +34,6 @@ function loadLib(url) {
         }
     };
     document.head.appendChild(script);
-    if (url.indexOf("laya.physics3D.js") >= 0) {
-        loadLib(url.replace("laya.physics3D.js", "laya.physics3D.runtime.js"));
-    }
 }
 window['loadLib'] = loadLib;
 const asyncs = require("async");
@@ -353,4 +352,4 @@ window['updateByZip'] = function (url, onEvent, onEnd) {
         }
     }, 10, 100000000);
 };
-loadApp(conch.presetUrl || "http://nativetest.layabox.com/layaplayer2.0.1/index.js");
+loadApp(conch.presetUrl||"http://stand.alone.version/index.js");
