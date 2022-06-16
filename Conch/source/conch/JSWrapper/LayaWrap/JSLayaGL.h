@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JSLayaGL.h
 @brief			
 @author			James
@@ -41,6 +41,7 @@ namespace laya
         void exportJS();
 
         static JSLayaGL* getInstance();
+        static void releaseInstance();
 
         JSLayaGL();
 

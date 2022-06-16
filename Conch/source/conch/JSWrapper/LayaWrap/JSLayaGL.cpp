@@ -80,6 +80,11 @@ namespace laya
         }
         return s_pLayaGL;
     }
+    void JSLayaGL::releaseInstance(){
+        if(s_pLayaGL){
+            delete s_pLayaGL;
+        }
+    }
     void JSLayaGL::setSyncArrayBufferID(int nSyncArrayBufferID)
     {
         m_nSyncToRenderABListID = nSyncArrayBufferID;

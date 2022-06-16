@@ -100,6 +100,8 @@
     self.displayLink.paused=YES;
     [self.displayLink invalidate];
     [self.conchRuntime destory];
+    [self.conchRuntime reset];
+    [conchRuntime freeIOSConchRuntime];
 }
 
 - (void)glkView:(GLKView *)view drawInRect:(CGRect)rect{

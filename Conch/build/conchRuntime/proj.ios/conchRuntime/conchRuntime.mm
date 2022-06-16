@@ -55,6 +55,10 @@ laya::JCConch* m_pConchEngine = NULL;
 {
     return g_pIOSConchRuntime;
 }
++(void)freeIOSConchRuntime
+{
+    g_pIOSConchRuntime=nil;
+}
 -(id)initWithView:(GLKView*)pGLView EAGLContext:(EAGLContext*) pGLContext downloadThreadNum:(int)nDownloadThreadNum URL:(NSString*)pUrl
 {
     self = [super init];

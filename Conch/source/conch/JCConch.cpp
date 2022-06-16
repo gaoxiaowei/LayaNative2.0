@@ -156,6 +156,7 @@ namespace laya
 		s_pConch = NULL;
         if (m_pScrpitRuntime) 
         {
+            m_pScrpitRuntime->stop();
             delete m_pScrpitRuntime;
             m_pScrpitRuntime = NULL;
         }
@@ -243,6 +244,7 @@ namespace laya
         {
             if (m_pScrpitRuntime)
             {
+                m_pScrpitRuntime->stop();
                 delete m_pScrpitRuntime;
                 m_pScrpitRuntime = NULL;
             }
@@ -253,6 +255,7 @@ namespace laya
         pNetLoader->stopCurTask();
         pNetLoader->clearAllAsyncTask();
         JCDownloadMgr::delInstance();
+        
     }
 	void JCConch::postCmdToMainThread(int nCmd, int nParam1, int nParam2) 
     {

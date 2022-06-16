@@ -136,4 +136,7 @@
 {
     NSLog(@"callWebviewJS is not implemented");
 }
+-(void)dealloc{
+    NSLog(@"LayaWebView dealloc");
+}
 @end

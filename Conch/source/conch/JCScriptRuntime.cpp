@@ -197,6 +197,7 @@ namespace laya
         }
 
         JCWebGLPlus::releaseInstance();
+        JSLayaGL::releaseInstance();
 
     }
     void  JCScriptRuntime::init(JCFileResManager* pFileMgr, JCFileSource* pAssetRes, IConchThreadCmdMgr* pThreadCmdSender) 
