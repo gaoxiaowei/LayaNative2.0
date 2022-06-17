@@ -96,6 +96,7 @@ class JCTouchFilter;
 
 //全局的MainView
 +(conchRuntime*)GetIOSConchRuntime;
++(void)freeIOSConchRuntime;
 -(id)initWithView:(GLKView*)pGLView EAGLContext:(EAGLContext*) pGLContext downloadThreadNum:(int)nDownloadThreadNum;
 -(id)initWithView:(GLKView*)pGLView EAGLContext:(EAGLContext*) pGLContext downloadThreadNum:(int)nDownloadThreadNum URL:(NSString*)pUrl;
 -(void)setConchRuntimeParam:(GLKView*)pGLView EAGLContext:(EAGLContext*) pGLContext downloadThreadNum:(int)nDownloadThreadNum;
