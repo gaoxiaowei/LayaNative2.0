@@ -61,3 +61,4 @@ publish/nativetools/template/ios/LayaBox/resource/scripts/index.js
 publish/nativetools/template/ios/LayaBox/resource/config.ini
 publish/nativetools/template/ios/LayaBox/resource/ca/cacert.pem
 publish/nativetools/template/ios/LayaBox/resource/app.json
+publish/nativetools/template/ios/LayaRuntime-iOS/libs/libconch.a
