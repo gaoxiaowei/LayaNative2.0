@@ -41,3 +41,5 @@ libconch.a
 *.d
 *.bc
 publish
+*.xcuserstate
+Conch/libs
