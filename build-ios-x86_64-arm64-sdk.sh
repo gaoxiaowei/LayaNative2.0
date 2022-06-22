@@ -1,4 +1,10 @@
 #!/bin/sh
+# !!!!!分别编译common、render、conchRuntime 项目
+# !!!!!后续可以考虑自动化编译，以下为手动编译步骤：
+# 1.编译relese，debug 会比较大！！！
+# 2.编译ios lib  选择 Any iOS Device (arm64,armv7)
+# 3.编译sim lib  选择 模拟器 (i386,x86_x64)
+# 4.以上步骤完成后可允许此脚本完成libconch.a的合成
 
 rm -rf ./publish/nativetools/template/ios/LayaRuntime-iOS
 mkdir ./publish/nativetools/template/ios/LayaRuntime-iOS
@@ -60,14 +66,14 @@ lipo -extract arm64 ./ThirdParty/openssl/lib/ios/libcrypto.a -o armv64/libcrypto
 lipo -extract x86_64 ./ThirdParty/openssl/lib/ios/libcrypto.a -o x86_64/libcrypto.a
 
 lipo -extract arm64 ./Conch/libs/ios/libcommon.a -o armv64/libcommon.a
-cp ./Conch/libs/ios-sim/libcommon.a x86_64/libcommon.a
+lipo -extract x86_64 ./Conch/libs/ios-sim/libcommon.a -o x86_64/libcommon.a
 
 
 lipo -extract arm64 ./Conch/libs/ios/librender.a -o armv64/librender.a
-cp ./Conch/libs/ios-sim/librender.a  x86_64/librender.a
+lipo -extract x86_64 ./Conch/libs/ios-sim/librender.a  -o x86_64/librender.a
 
 lipo -extract arm64 ./Conch/libs/ios/libconchRuntime.a -o armv64/libconchRuntime.a
-cp ./Conch/libs/ios-sim/libconchRuntime.a x86_64/libconchRuntime.a
+lipo -extract x86_64 ./Conch/libs/ios-sim/libconchRuntime.a -o x86_64/libconchRuntime.a
 
 
 cd x86_64
