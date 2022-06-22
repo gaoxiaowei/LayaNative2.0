@@ -36,11 +36,8 @@ gdb.setup
 libcommon.a
 librender.a
 liblaya.so
+libconch.a
 .gradle
 *.d
 *.bc
 publish
-publish/*
-publish/nativetools/template/ios/LayaRuntime-iOS/libs/*
-Conch/build/conch/proj.ios/conch6.xcworkspace/xcuserdata/*
-publish/nativetools/template/ios/LayaRuntime-iOS/libs/libconch.a
