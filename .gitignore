@@ -43,3 +43,4 @@ libconch.a
 publish
 *.xcuserstate
 Conch/libs
+publish/nativetools/template/ios/LayaRuntime-iOS/libs/libconch.a
