@@ -4,7 +4,7 @@
 # 1.编译relese，debug 会比较大！！！
 # 2.编译ios lib  选择 Any iOS Device (arm64,armv7)
 # 3.编译sim lib  选择 模拟器 (i386,x86_x64)
-# 4.以上步骤完成后可允许此脚本完成libconch.a的合成
+# 4.以上步骤完成后可运行此脚本完成libconch.a的合成
 
 rm -rf ./publish/nativetools/template/ios/LayaRuntime-iOS
 mkdir ./publish/nativetools/template/ios/LayaRuntime-iOS
