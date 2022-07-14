@@ -177,6 +177,7 @@ std::string CToObjectCGetDeviceInfo();
 float CToObjectCGetDeviceSystemVersion();
 std::string CToObjectCGetAppVersion();
 std::string CToObjectCGetAppLocalVersion();
+std::string CToObjectCGetAppEnv();
 void CToObjectCSetExternalLink( const char* p_sUrl,int x,int y,int w,int h,bool bShowCloseButton );
 void CToObjectCCloseExternalLink();
 void CToObjectCSetScreenWakeLock( bool p_bWakeLock );

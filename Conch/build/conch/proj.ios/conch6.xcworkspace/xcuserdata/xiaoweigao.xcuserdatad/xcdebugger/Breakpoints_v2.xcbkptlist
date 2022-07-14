@@ -7,22 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "F5459B30-49E5-4297-892F-649627CBC730"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../conchRuntime/proj.ios/conchRuntime/conchRuntime.mm"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "309"
-            endingLineNumber = "309"
-            landmarkName = "-dealloc"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "9A0ACEB2-8DDD-461E-9B9A-A02685BA43E1"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -49,22 +33,6 @@
             startingLineNumber = "48"
             endingLineNumber = "48"
             landmarkName = "JSRuntime::~JSRuntime()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "ECC259ED-743F-48AB-BAEB-6F25ED919B12"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JCConch.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "243"
-            endingLineNumber = "243"
-            landmarkName = "JCConch::onAppDestory()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -161,70 +129,6 @@
             startingLineNumber = "29"
             endingLineNumber = "29"
             landmarkName = "JCGlobalValue::JCGlobalValue()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2AF3AE39-6CD4-4BC4-A384-5B1E08E05650"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JSWrapper/JSInterface/JSC/JSCEnv.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "Javascript::initJSEngine()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7B953874-9FC6-41EB-BA93-E5030E51A7A0"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JSWrapper/LayaWrap/JSLayaGL.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
-            landmarkName = "JSLayaGL::~JSLayaGL()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "062FD7C5-961F-4CDC-BEAF-CB0281FDB45A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JSWrapper/JSInterface/JSC/JSCEnv.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
-            landmarkName = "Javascript::uninitJSEngine()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7DE9127E-439D-4416-AD06-3058A730488B"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JSWrapper/LayaWrap/JSLayaGL.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "JSLayaGL::JSLayaGL()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -343,22 +247,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6915CE21-6620-4097-A3CC-3583A4F8C985"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/render/LayaGL/JCLayaGL.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "387"
-            endingLineNumber = "387"
-            landmarkName = "JCLayaGL::deleteFramebuffer(framebuffer)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "EA7D067B-F706-48DE-A358-5C0FE642A9BC"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -369,22 +257,6 @@
             startingLineNumber = "357"
             endingLineNumber = "357"
             landmarkName = "JCLayaGL::createTexture(fakeID)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "42FCB036-0860-4DA4-B5BD-DF2F8D75A319"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../source/render/LayaGL/JCLayaGL.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "432"
-            endingLineNumber = "432"
-            landmarkName = "JCLayaGL::deleteTexture(texture)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -423,64 +295,64 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "88A0E1AA-AFB0-4AD9-8EBC-48670A4A09EF"
+            uuid = "72CA7162-E1C1-44EC-9C4B-1003A74C18C1"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JCScriptRuntime.cpp"
+            filePath = "../../../source/conch/JSWrapper/JSInterface/JSC/JSCEnv.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "190"
-            endingLineNumber = "190"
-            landmarkName = "JCScriptRuntime::~JCScriptRuntime()"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "JSCWorker::stop()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FD4FE9E8-A3C2-4325-B2BB-3749CA1864FC"
+            uuid = "EFD33A1D-6B70-4FD3-B574-DDDDF4B5B7CE"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../../../source/common/buffer/JCBuffer.cpp"
+            filePath = "../../../source/conch/JSWrapper/JSInterface/JSC/JSCEnv.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "JCCommandEncoderBuffer::~JCCommandEncoderBuffer()"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "JSCWorker::_defRunLoop()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "A1CCB389-37EE-4362-A6F3-2FE28C9AAD6C"
+            uuid = "AE6D3C78-D828-446B-8247-8B3115AD641D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../../../source/common/buffer/JCBuffer.h"
+            filePath = "../../../source/conch/JSWrapper/JSInterface/JSC/JSCEnv.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "293"
-            endingLineNumber = "293"
-            landmarkName = "setShareBuffer(pBuffer, nSize)"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "JSCWorker::_runLoop()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6F2C4EE8-4B11-4513-9656-0AA497C5D8CD"
+            uuid = "5C33B3C0-BDAC-4BA0-A8BB-198C41DC813B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../../../source/conch/JCScriptRuntime.cpp"
+            filePath = "../../../source/common/downloadCache/JCIosFileSource.h"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "540"
-            endingLineNumber = "540"
-            landmarkName = "JCScriptRuntime::dispatchLayaGLBuffer(bDispatchGC)"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "loadFileContent(sFileName, pBuffer, nBuffSize)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

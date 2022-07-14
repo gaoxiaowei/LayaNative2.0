@@ -776,6 +776,19 @@ float CToObjectCGetDeviceSystemVersion()
 {
     return [[[UIDevice currentDevice] systemVersion] floatValue];
 }
+std::string CToObjectCGetAppEnv()
+{
+    NSDictionary*dic =[conchConfig GetInstance]->m_AppEnv;
+    NSError* pError = nil;
+    NSData* pJsonData = [NSJSONSerialization dataWithJSONObject:dic options:NSJSONWritingPrettyPrinted error:&pError];
+    if( !pError )
+    {
+        std::string sBuffer = [[[NSString alloc] initWithData:pJsonData encoding:NSUTF8StringEncoding] cStringUsingEncoding:NSUTF8StringEncoding];
+        return sBuffer.c_str();
+    }
+    
+    return "";
+}
 std::string CToObjectCGetDeviceInfo()
 {
     NSString* nsDeviceID = [[UIDevice currentDevice] identifierForVendor].UUIDString;

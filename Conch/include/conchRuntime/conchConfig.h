@@ -1,9 +1,9 @@
 /**
- @file			conchConfig.h
+ @file            conchConfig.h
  @brief         配置用到的，比如版本号 或者描述信息
- @author		James
- @version		1.0
- @date			2013_7_5
+ @author        James
+ @version        1.0
+ @date            2013_7_5
  @company       LayaBox
  */
 #import "UIKit/UIKit.h"
@@ -25,8 +25,10 @@
      UIInterfaceOrientationMaskLandscapeRight,       ===16
      */
     int             m_nOrientationType;     //游戏的方向
+    NSDictionary    *m_AppEnv;               //App环境信息
 }
 +(conchConfig*)GetInstance;
 -(bool)readIni;
 -(conchConfig*)init;
+-(void)setAppEnv:(NSDictionary*)appEnv;
 @end

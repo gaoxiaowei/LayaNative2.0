@@ -39,6 +39,7 @@
     return self;
 }
 -(void)setupUI{
+    [[conchConfig GetInstance]setAppEnv:@{@"app_url":@"http://stand.alone.version/index.js"}];
     [self addSubview:self.gLKView];
     self.gLKView.delegate=self;
 }

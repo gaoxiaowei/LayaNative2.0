@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JSConchConfig.cpp
 @brief			
 @author			hugao
@@ -357,6 +357,21 @@ namespace laya
         return "2.0";
 #endif
     }
+    const char* JSConchConfig::getAppEnv(){
+#ifdef __APPLE__
+        m_sAppEnv = CToObjectCGetAppEnv();
+        return m_sAppEnv.c_str();
+#elif ANDROID
+        CToJavaBridge::JavaRet kRet;
+        if (CToJavaBridge::GetInstance()->callMethod(CToJavaBridge::JavaClass.c_str(), "getAppEnv", kRet))
+        {
+            return CToJavaBridge::GetInstance()->getJavaString(kRet.pJNI, kRet.strRet).c_str();;
+        }
+        return "";
+#elif WIN32
+        return "";
+#endif
+    }
     const char* JSConchConfig::getAppLocalVersion()
     {
 #ifdef __APPLE__
@@ -675,6 +690,7 @@ namespace laya
         JSP_GLOBAL_ADD_PROPERTY(JSDebugPort, JSConchConfig, getJSDebugPort, setJSDebugPort);
 		JSP_GLOBAL_ADD_METHOD("setSoundGarbageCollectionTime", JSConchConfig::setSoundGarbageCollectionTime);
         JSP_INSTALL_GLOBAL_CLASS("conchConfig", JSConchConfig, this);
+        JSP_GLOBAL_ADD_METHOD("getAppEnv",JSConchConfig::getAppEnv);
     }
 }
 //------------------------------------------------------------------------------

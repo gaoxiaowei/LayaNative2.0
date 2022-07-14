@@ -37,6 +37,7 @@ static conchConfig* g_pConchConfig = nil;
     [self readIni];
     m_sAppVersion=nil;          //版本号
     m_sAppLocalVersion = nil;   //对内版本号
+    m_AppEnv =@{};
     NSDictionary* infoDictionary =  [[NSBundle mainBundle] infoDictionary];
     // 当前应用软件版本 Bundle versions string, short
     m_sAppVersion = [infoDictionary objectForKey:@"CFBundleShortVersionString"];
@@ -135,4 +136,9 @@ static conchConfig* g_pConchConfig = nil;
 {
     return [[NSBundle mainBundle] resourcePath];
 }
+
+-(void)setAppEnv:(NSDictionary*)appEnv{
+    m_AppEnv =appEnv;
+}
+
 @end

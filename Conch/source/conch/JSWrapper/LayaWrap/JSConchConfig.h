@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JSConchConfig.h
 @brief			
 @author			hugao
@@ -117,7 +117,8 @@ namespace laya
 	    const char* getDeviceInfo();
         const char* getAppVersion();
         const char* getAppLocalVersion();
-
+        const char* getAppEnv();
+        
         void setTouchMode(bool bMode);
         bool getTouchMode();
         void setDebugLevel(int nLevel);
@@ -159,6 +160,7 @@ namespace laya
 	    std::string				m_sDeviceInfo;
         std::string             m_sAppVersion;
         std::string             m_sAppLocalVersion;
+        std::string             m_sAppEnv;
         //std::string             m_sVersionStr;
         float                   m_fScreenScaleW = 1.0f;
         float                   m_fScreenScaleH = 1.0f;

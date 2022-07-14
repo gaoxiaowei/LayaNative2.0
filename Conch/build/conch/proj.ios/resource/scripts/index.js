@@ -15,6 +15,7 @@ console.log('             LAYA CONCH            ');
 console.log('     runtimeversion:' + conchConfig.getRuntimeVersion());
 console.log('          jsversion:' + window._conchInfo.version);
 console.log('             isplug:' + conchConfig.getIsPlug());
+console.log('     app-env:'+conchConfig.getAppEnv());
 console.log('======================================================');
 function log(m) {
     console.log(m);
@@ -352,4 +353,6 @@ window['updateByZip'] = function (url, onEvent, onEnd) {
         }
     }, 10, 100000000);
 };
-loadApp(conch.presetUrl||"http://stand.alone.version/index.js");
+var jsonobj = JSON.parse(conchConfig.getAppEnv());
+let appUrl = jsonobj["app_url"];
+loadApp(conch.presetUrl||appUrl||"http://stand.alone.version/index.js");

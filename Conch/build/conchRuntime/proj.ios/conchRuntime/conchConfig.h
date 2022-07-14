@@ -25,8 +25,10 @@
      UIInterfaceOrientationMaskLandscapeRight,       ===16
      */
     int             m_nOrientationType;     //游戏的方向
+    NSDictionary    *m_AppEnv;               //App环境信息
 }
 +(conchConfig*)GetInstance;
 -(bool)readIni;
 -(conchConfig*)init;
+-(void)setAppEnv:(NSDictionary*)appEnv;
 @end
