@@ -1,9 +1,0 @@
-//-----libs-begin-----
-loadLib("libs/laya.core.js")
-loadLib("libs/laya.tiledmap.js")
-loadLib("libs/laya.ui.js")
-loadLib("libs/laya.d3.js")
-//-----libs-end-------
-loadLib("js/zm.sdk.js")
-loadLib("js/jszip.min.js")
-loadLib("js/GameMain.js")

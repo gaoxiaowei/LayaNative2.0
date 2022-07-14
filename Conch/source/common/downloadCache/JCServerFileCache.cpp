@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JCServerFileCache.cpp
 @brief			
 @author			guo
@@ -427,10 +427,14 @@ namespace laya
 		if(tmpWebBase[tmpWebBase.length()-1]=='/' || tmpWebBase[tmpWebBase.length()-1]=='\\'){
 			tmpWebBase = tmpWebBase.substr(0,tmpWebBase.length()-1);
 		}
-		replace_all(tmpWebBase,"http://","");
-		replace_all(tmpWebBase,":",".");
-		replace_all(tmpWebBase,"/","_");
-		replace_all(tmpWebBase,"\\","_");
+//		replace_all(tmpWebBase,"http://","");
+//		replace_all(tmpWebBase,":",".");
+//		replace_all(tmpWebBase,"/","_");
+//		replace_all(tmpWebBase,"\\","_");
+        //modify by sunluchuan
+        JCUrl url = JCUrl(tmpWebBase.c_str());
+        tmpWebBase = url.m_Host;
+        
 		std::string assetsPath = gAssetRootPath+"/"+tmpWebBase;
 		JCFileSource* pFileReader = NULL;
 #ifdef ANDROID

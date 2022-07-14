@@ -169,7 +169,7 @@ function loadApp(url) {
         url = url.replace(/.html$/i, '.json');
         if (url.indexOf('http://stand.alone.version') == 0)
             _inline = false;
-        if (!_inline) {
+        if (_inline) {
             url = 'http://stand.alone.version/index.js';
         }
         console.log("loadApp:" + url);
