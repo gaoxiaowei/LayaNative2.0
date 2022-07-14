@@ -39,7 +39,7 @@
     return self;
 }
 -(void)setupUI{
-    [[conchConfig GetInstance]setAppEnv:@{@"app_url":@"http://stand.alone.version/index.js"}];
+    [[conchConfig GetInstance]setAppEnv:@{@"app_url":@"http://game.zhaomi.cn/gather_dcc_test/index.js"}];
     [self addSubview:self.gLKView];
     self.gLKView.delegate=self;
 }
