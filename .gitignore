@@ -43,6 +43,9 @@ libconch.a
 publish
 *.xcuserstate
 *.xcbkptlist
+
+Conch/build/conch/proj.ios/conch6.xcworkspace/xcuserdata/*.*
+
 Conch/build/common/proj.ios/build
 Conch/build/render/proj.ios/build
 Conch/build/conchRuntime/proj.ios/build
