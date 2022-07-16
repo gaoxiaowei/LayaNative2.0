@@ -1,14 +1,29 @@
 #!/bin/sh
-# !!!!!分别编译common、render、conchRuntime 项目
-# !!!!!后续可以考虑自动化编译，以下为手动编译步骤：
-# 1.编译relese，debug 会比较大！！！
-# 2.编译ios lib  选择 Any iOS Device (arm64,armv7)
-# 3.编译sim lib  选择 模拟器 (i386,x86_x64)
-# 4.以上步骤完成后可运行此脚本完成libconch.a的合成
 
 rm -rf ./publish/nativetools/template/ios/LayaRuntime-iOS
 mkdir ./publish/nativetools/template/ios/LayaRuntime-iOS
 mkdir ./publish/nativetools/template/ios/LayaRuntime-iOS/libs
+
+#build common.a
+cd Conch/build/common/proj.ios
+xcodebuild -target common -configuration Release -sdk iphoneos -arch armv7 -arch arm64
+xcodebuild -target common -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64
+cd ../..
+
+#build render.a
+cd Conch/build/render/proj.ios
+xcodebuild -target render -configuration Release -sdk iphoneos -arch armv7 -arch arm64
+xcodebuild -target render -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64
+cd ../..
+
+#build conchRuntime.a
+cd Conch/build/conchRuntime/proj.ios
+xcodebuild -target conchRuntime -configuration Release -sdk iphoneos -arch armv7 -arch arm64
+xcodebuild -target conchRuntime -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64
+cd ../..
+
+cd ../..
+
 
 #—————————————————————merge static lib————————————————————————
 

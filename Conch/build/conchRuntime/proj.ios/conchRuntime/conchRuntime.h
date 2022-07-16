@@ -120,4 +120,6 @@ class JCTouchFilter;
 -(void)destory;
 -(void)runJsLoop;
 -(void)runFunc:(NSTimer*)timer;
+-(void)callJSStringFunction:(NSString*)script;
+
 @end

@@ -871,4 +871,11 @@ void AudioEngineInterruptionListenerCallback(void* user_data, UInt32 interruptio
 {
     laya::setFileDataHandler(func);
 }
+
+-(void)callJSStringFunction:(NSString*)script{
+    const char* pScript = [script UTF8String];
+    if (pScript){
+        JCScriptRuntime::s_JSRT->callJSStringFunction(std::string(pScript));
+    }
+}
 @end
