@@ -6,20 +6,20 @@ mkdir ./publish/nativetools/template/ios/LayaRuntime-iOS/libs
 
 #build common.a
 cd Conch/build/common/proj.ios
-xcodebuild -target common -configuration Release -sdk iphoneos -arch armv7 -arch arm64
-xcodebuild -target common -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64
+xcodebuild -target common -configuration Release -sdk iphoneos -arch armv7 -arch arm64 clean build
+xcodebuild -target common -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64 clean build
 cd ../..
 
 #build render.a
 cd Conch/build/render/proj.ios
-xcodebuild -target render -configuration Release -sdk iphoneos -arch armv7 -arch arm64
-xcodebuild -target render -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64
+xcodebuild -target render -configuration Release -sdk iphoneos -arch armv7 -arch arm64 clean build
+xcodebuild -target render -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64 clean build
 cd ../..
 
 #build conchRuntime.a
 cd Conch/build/conchRuntime/proj.ios
-xcodebuild -target conchRuntime -configuration Release -sdk iphoneos -arch armv7 -arch arm64
-xcodebuild -target conchRuntime -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64
+xcodebuild -target conchRuntime -configuration Release -sdk iphoneos -arch armv7 -arch arm64 clean build
+xcodebuild -target conchRuntime -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64 clean build
 cd ../..
 
 cd ../..
