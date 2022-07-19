@@ -226,13 +226,16 @@ namespace laya
             std::this_thread::sleep_for(std::chrono::milliseconds(100));
         }
 #ifdef __APPLE__
-        if (JCConch::s_pConchRender)
-        {
-            while (JCConch::s_pConchRender->m_kRenderSem.getDataNum() == 1)
+        if (g_kSystemConfig.m_nThreadMODE == THREAD_MODE_SINGLE){
+            if (JCConch::s_pConchRender)
             {
-                JCConch::s_pConchRender->renderFrame(0, false);
+                while (JCConch::s_pConchRender->m_kRenderSem.getDataNum() == 1)
+                {
+                    JCConch::s_pConchRender->renderFrame(0, false);
+                }
             }
         }
+    
 #endif
         m_pScriptThread->stop();
         m_pScriptThread->uninitialize();
