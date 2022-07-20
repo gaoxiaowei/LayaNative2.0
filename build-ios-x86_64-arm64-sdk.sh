@@ -8,22 +8,19 @@ mkdir ./publish/nativetools/template/ios/LayaRuntime-iOS/libs
 cd Conch/build/common/proj.ios
 xcodebuild -target common -configuration Release -sdk iphoneos -arch armv7 -arch arm64 clean build
 xcodebuild -target common -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64 clean build
-cd ../..
+cd ../../../..
 
 #build render.a
 cd Conch/build/render/proj.ios
 xcodebuild -target render -configuration Release -sdk iphoneos -arch armv7 -arch arm64 clean build
 xcodebuild -target render -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64 clean build
-cd ../..
+cd ../../../..
 
 #build conchRuntime.a
 cd Conch/build/conchRuntime/proj.ios
 xcodebuild -target conchRuntime -configuration Release -sdk iphoneos -arch armv7 -arch arm64 clean build
 xcodebuild -target conchRuntime -configuration Release -sdk iphonesimulator -arch i386 -arch x86_64 clean build
-cd ../..
-
-cd ../..
-
+cd ../../../..
 
 #—————————————————————merge static lib————————————————————————
 
