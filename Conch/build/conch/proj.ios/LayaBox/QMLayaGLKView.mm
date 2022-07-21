@@ -40,6 +40,9 @@
 }
 -(void)setupUI{
     [[conchConfig GetInstance]setAppEnv:@{@"app_url":@"http://game.zhaomi.cn/gather_dcc_test/index.js"}];
+#ifdef DEBUG
+    [[conchConfig GetInstance]setTheadMode:1];
+#endif
     [self addSubview:self.gLKView];
     self.gLKView.delegate=self;
 }

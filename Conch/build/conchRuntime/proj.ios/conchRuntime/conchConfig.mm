@@ -141,4 +141,21 @@ static conchConfig* g_pConchConfig = nil;
     m_AppEnv =appEnv;
 }
 
+-(void)setTheadMode:(int)nThreadMode{
+    laya::THREAD_MODE nMode = (laya::THREAD_MODE)nThreadMode;
+    if (nMode == laya::THREAD_MODE_SINGLE)
+    {
+        laya::g_kSystemConfig.m_nThreadMODE = nMode;
+        NSLog(@">>>>>>Thread Mode = single");
+    }
+    else if (nMode == laya::THREAD_MODE_DOUBLE)
+    {
+        laya::g_kSystemConfig.m_nThreadMODE = nMode;
+        NSLog(@">>>>>>Thread Mode = double");
+    }
+    else
+    {
+        NSLog(@">>>>>>Thread Mode = %d", laya::g_kSystemConfig.m_nThreadMODE);
+    }
+}
 @end

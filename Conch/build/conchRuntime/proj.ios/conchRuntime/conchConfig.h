@@ -31,4 +31,5 @@
 -(bool)readIni;
 -(conchConfig*)init;
 -(void)setAppEnv:(NSDictionary*)appEnv;
+-(void)setTheadMode:(int)nThreadMode;
 @end
