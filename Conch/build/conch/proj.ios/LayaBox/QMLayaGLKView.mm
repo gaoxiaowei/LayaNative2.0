@@ -39,7 +39,8 @@
     return self;
 }
 -(void)setupUI{
-    conchDisableLogOutput();
+    //关闭日志输出
+    //conchDisableLogOutput();
     [[conchConfig GetInstance]setAppEnv:@{@"app_url":@"http://game.zhaomi.cn/gather_dcc_test/index.js"}];
 #ifdef DEBUG
     [[conchConfig GetInstance]setTheadMode:1];
