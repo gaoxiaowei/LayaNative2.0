@@ -21,6 +21,7 @@ namespace laya
     {
 	    AdjustAmountOfExternalAllocatedMemory( 4 );
 	    JCMemorySurvey::GetInstance()->newClass( "console",4,this );
+        m_isDisableLogOutput=false;
     }
     //------------------------------------------------------------------------------
     JSConsole::~JSConsole()
@@ -40,6 +41,9 @@ namespace laya
     //------------------------------------------------------------------------------
     void JSConsole::log(int p_nType,const char* p_sBuffer )
     {
+        if(m_isDisableLogOutput){
+            return;
+        }
         LogLevel logLevel = (LogLevel)p_nType;
     #ifdef WIN32
 	    if( p_sBuffer==NULL)
@@ -124,6 +128,9 @@ namespace laya
         JSP_GLOBAL_CLASS("_console", JSConsole, JSConsole::getInstance());
 		JSP_GLOBAL_ADD_METHOD("log", JSConsole::log);
         JSP_INSTALL_GLOBAL_CLASS("_console", JSConsole, JSConsole::getInstance());
+    }
+    void JSConsole::disabeLogOutput(){
+        m_isDisableLogOutput=true;
     }
 }
 //------------------------------------------------------------------------------

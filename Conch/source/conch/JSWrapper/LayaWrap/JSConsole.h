@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JSConsole.h
 @brief			
 @author			James
@@ -28,7 +28,7 @@ namespace laya
         ~JSConsole();
 
         static JSConsole* getInstance();
-
+        void disabeLogOutput();
     public:
 
         void log(int p_nType, const char* p_sBuffer);
@@ -36,8 +36,12 @@ namespace laya
     public:
 
         static JSConsole*		m_spConsole;
-
+        
+    private:
+        bool m_isDisableLogOutput;
     };
+    
+
 }
 //------------------------------------------------------------------------------
 

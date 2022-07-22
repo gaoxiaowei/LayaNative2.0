@@ -74,6 +74,7 @@
      UIInterfaceOrientationMaskLandscapeLeft,        ===8
      UIInterfaceOrientationMaskLandscapeRight,       ===16
      */
-    return [conchConfig GetInstance]->m_nOrientationType;
+//    return [conchConfig GetInstance]->m_nOrientationType;
+    return UIInterfaceOrientationMaskPortrait;
 }
 @end

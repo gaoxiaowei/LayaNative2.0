@@ -124,7 +124,7 @@ laya::JCConch* m_pConchEngine = NULL;
     m_fRetinaValue = fRetinaValue;
     m_nsRootResourcePath = [self getResourcePath];
     m_nsRootCachePath = [self getRootCachePath];
-    NSLog(@"AppVersion=%@",[conchConfig GetInstance]->m_sAppVersion );
+    ConchLog(@"AppVersion=%@",[conchConfig GetInstance]->m_sAppVersion );
     if( [conchConfig GetInstance]->m_bNotification)
     {
         [[LayaNotifyManager GetInstance]deleteAllNotify];

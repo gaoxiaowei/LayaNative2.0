@@ -13,8 +13,25 @@
 #import "conchRuntime.h"
 #import "../../../../source/conch/JCSystemConfig.h"
 #include <util/JCCommonMethod.h>
+#import "../../../../source/conch/JSWrapper/LayaWrap/JSConsole.h"
 //-------------------------------------------------------------------------------
 static conchConfig* g_pConchConfig = nil;
+bool g_bDisableLogOutput=false;//是否关闭日志输出
+void conchDisableLogOutput(){
+    g_nDebugLevel=0;
+    g_bDisableLogOutput=true;
+    laya::JSConsole::getInstance()->disabeLogOutput();
+}
+
+bool isConchDisableLogOutput(){
+    return g_bDisableLogOutput;
+}
+
+void ConchLogV(NSString *format, va_list args){
+    if (!g_bDisableLogOutput) {
+       NSLogv(format,args);
+    }
+}
 //-------------------------------------------------------------------------------
 @implementation conchConfig
 //-------------------------------------------------------------------------------
@@ -41,10 +58,10 @@ static conchConfig* g_pConchConfig = nil;
     NSDictionary* infoDictionary =  [[NSBundle mainBundle] infoDictionary];
     // 当前应用软件版本 Bundle versions string, short
     m_sAppVersion = [infoDictionary objectForKey:@"CFBundleShortVersionString"];
-    NSLog(@"当前应用软件版本:%@",m_sAppVersion);
+    ConchLog(@"当前应用软件版本:%@",m_sAppVersion);
     // 当前应用版本号码 Bundle versions
     m_sAppLocalVersion = [infoDictionary objectForKey:@"CFBundleVersion"];
-    NSLog(@"当前应用Local版本号码：%@",m_sAppLocalVersion);
+    ConchLog(@"当前应用Local版本号码：%@",m_sAppLocalVersion);
     return self;
 }
 //-------------------------------------------------------------------------------
@@ -72,7 +89,7 @@ static conchConfig* g_pConchConfig = nil;
         }
         else
         {
-            NSLog(@"读取ini gameID 错误");
+            ConchLog(@"读取ini gameID 错误");
         }
         if( sCheckNetwork )
         {
@@ -80,19 +97,19 @@ static conchConfig* g_pConchConfig = nil;
         }
         else
         {
-            NSLog(@"读取ini checkNetworkd 错误");
+            ConchLog(@"读取ini checkNetworkd 错误");
         }
         if( sOrientation )
         {
             m_nOrientationType = atoi(sOrientation);
             if( m_nOrientationType < 1 )
             {
-                NSLog(@"读取ini orientation 错误");
+                ConchLog(@"读取ini orientation 错误");
             }
         }
         else
         {
-            NSLog(@"读取ini orientation错误");
+            ConchLog(@"读取ini orientation错误");
         }
        
         if( sNotification )
@@ -101,7 +118,7 @@ static conchConfig* g_pConchConfig = nil;
         }
         else
         {
-            NSLog(@"读取ini notification 错误");
+            ConchLog(@"读取ini notification 错误");
         }
         if(sThreadMode)
         {
@@ -110,21 +127,21 @@ static conchConfig* g_pConchConfig = nil;
             if (nMode == laya::THREAD_MODE_SINGLE)
             {
                 laya::g_kSystemConfig.m_nThreadMODE = nMode;
-                NSLog(@">>>>>>Thread Mode = single");
+                ConchLog(@">>>>>>Thread Mode = single");
             }
             else if (nMode == laya::THREAD_MODE_DOUBLE)
             {
                 laya::g_kSystemConfig.m_nThreadMODE = nMode;
-                NSLog(@">>>>>>Thread Mode = double");
+                ConchLog(@">>>>>>Thread Mode = double");
             }
             else
             {
-                NSLog(@">>>>>>Thread Mode = %d", laya::g_kSystemConfig.m_nThreadMODE);
+                ConchLog(@">>>>>>Thread Mode = %d", laya::g_kSystemConfig.m_nThreadMODE);
             }
         }
         else
         {
-            NSLog(@"读取ini ThreadMode错误");
+            ConchLog(@"读取ini ThreadMode错误");
         }
         delete pConfigFile;
         pConfigFile = NULL;
@@ -146,16 +163,17 @@ static conchConfig* g_pConchConfig = nil;
     if (nMode == laya::THREAD_MODE_SINGLE)
     {
         laya::g_kSystemConfig.m_nThreadMODE = nMode;
-        NSLog(@">>>>>>Thread Mode = single");
+        ConchLog(@">>>>>>Thread Mode = single");
     }
     else if (nMode == laya::THREAD_MODE_DOUBLE)
     {
         laya::g_kSystemConfig.m_nThreadMODE = nMode;
-        NSLog(@">>>>>>Thread Mode = double");
+        ConchLog(@">>>>>>Thread Mode = double");
     }
     else
     {
-        NSLog(@">>>>>>Thread Mode = %d", laya::g_kSystemConfig.m_nThreadMODE);
+        ConchLog(@">>>>>>Thread Mode = %d", laya::g_kSystemConfig.m_nThreadMODE);
     }
 }
+
 @end

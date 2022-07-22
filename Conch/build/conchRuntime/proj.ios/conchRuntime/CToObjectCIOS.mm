@@ -287,7 +287,7 @@ static uint32_t CalcTableDataRefCheckSum(CFDataRef dataRef)
 +(void) showExternalWebview:(id)param
 {
     postCmdString4IntParam* _param = (postCmdString4IntParam*)param;
-    NSLog(@">>>>showExternalWebview url=%s",_param->sBuffer.c_str());
+    ConchLog(@">>>>showExternalWebview url=%s",_param->sBuffer.c_str());
     NSString* nsString = [NSString stringWithUTF8String:_param->sBuffer.c_str()];
     conchRuntime* pConchRuntime = [conchRuntime GetIOSConchRuntime];
     int x = _param->iParam0;
@@ -703,7 +703,7 @@ long CToObjectCGetTotalMem()
     vm_statistics_data_t vmStats;
     if ( memoryInfo(&vmStats))
     {
-        NSLog(@">>>>>>>>>>>>>>>>>>>ios info free: %u\nactive: %u\ninactive: %u\nwire: %u\nzero fill: %u\nreactivations: %u\npageins: %u\npageouts: %u\nfaults: %u\ncow_faults: %u\nlookups: %u\nhits: %u",
+        ConchLog(@">>>>>>>>>>>>>>>>>>>ios info free: %u\nactive: %u\ninactive: %u\nwire: %u\nzero fill: %u\nreactivations: %u\npageins: %u\npageouts: %u\nfaults: %u\ncow_faults: %u\nlookups: %u\nhits: %u",
               vmStats.free_count * vm_page_size,
               vmStats.active_count * vm_page_size,
               vmStats.inactive_count * vm_page_size,
@@ -897,7 +897,7 @@ void CToObjectCDeleteAllNotify()
 
 void CToObjectCLogIExt(const char* str)
 {
-    NSLog(@"%s", str);
+    ConchLog(@"%s", str);
 }
 
 void CToObjectCLogI( const char* szFormat,...)
@@ -905,7 +905,7 @@ void CToObjectCLogI( const char* szFormat,...)
     va_list args;
     va_start(args, szFormat);
     NSString* nsFormat = [NSString stringWithUTF8String:szFormat];
-    NSLogv( nsFormat, args);
+    ConchLogV( nsFormat, args);
     va_end(args);
 }
 void CToObjectCLogE( const char* szFormat,...)
@@ -913,7 +913,7 @@ void CToObjectCLogE( const char* szFormat,...)
     va_list args;
     va_start(args, szFormat);
     NSString* nsFormat = [NSString stringWithUTF8String:szFormat];
-    NSLogv( nsFormat, args);
+    ConchLogV( nsFormat, args);
     va_end(args);
 }
 void CToObjectCLogW( const char* szFormat,...)
@@ -921,14 +921,13 @@ void CToObjectCLogW( const char* szFormat,...)
     va_list args;
     va_start(args, szFormat);
     NSString* nsFormat = [NSString stringWithUTF8String:szFormat];
-    NSLogv( nsFormat, args);
+    ConchLogV( nsFormat, args);
     va_end(args);
 }
 
 std::string CToObjectCCallMethod(int objid,bool isSync, const char*clsName, const char* methodName, const char* paramStr)
 {
-    NSLog(@" %s %s %s",clsName,methodName,paramStr);
-
+    ConchLog(@" %s %s %s",clsName,methodName,paramStr);
     postCmdToReflectionParam* pParam =
     [[postCmdToReflectionParam alloc] init:objid Class:clsName Method:methodName Param:paramStr];
     NSString* ret = [CToObjectCIOS callMethod:pParam];
@@ -940,7 +939,7 @@ void reflectionCallback(const std::string& jsonret)
 {
     std::string script = "conch.platCallBack(" + jsonret + ")";
     JSP_RUN_SCRIPT(script.c_str());
-    NSLog(@"%@", [[NSString alloc] initWithUTF8String:jsonret.c_str()]);
+    ConchLog(@"%@", [[NSString alloc] initWithUTF8String:jsonret.c_str()]);
 }
 
 void CToObjectCCallWebviewJS(const char* functionName, const char* jsonParam, const char* callback)
