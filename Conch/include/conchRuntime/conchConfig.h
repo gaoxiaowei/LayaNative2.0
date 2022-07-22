@@ -10,18 +10,26 @@
 #import <GLKit/GLKit.h>
 #import <string>
 
+extern void conchDisableLogOutput();
+extern bool isConchDisableLogOutput();
+
 #define ConchLog(format, ...)\
 do { \
-    if (!g_bDisableLogOutput) { \
+    if (!isConchDisableLogOutput()) { \
        NSString *message = [NSString stringWithFormat:format, ##__VA_ARGS__]; \
        NSLog(message);\
     } \
 } while(0)
 
-extern bool g_bDisableLogOutput;//是否关闭日志输出
-extern void conchDisableLogOutput();
-extern bool isConchDisableLogOutput();
-extern void ConchLogV(NSString *format, va_list args);
+#define ConchLogV(format, args)\
+do { \
+    if (!isConchDisableLogOutput()) { \
+       NSLogv(format,args);\
+    } \
+} while(0)
+
+
+
 @interface conchConfig : NSObject
 {
 @public

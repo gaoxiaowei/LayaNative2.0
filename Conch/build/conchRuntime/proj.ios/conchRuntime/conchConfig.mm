@@ -27,11 +27,6 @@ bool isConchDisableLogOutput(){
     return g_bDisableLogOutput;
 }
 
-void ConchLogV(NSString *format, va_list args){
-    if (!g_bDisableLogOutput) {
-       NSLogv(format,args);
-    }
-}
 //-------------------------------------------------------------------------------
 @implementation conchConfig
 //-------------------------------------------------------------------------------
