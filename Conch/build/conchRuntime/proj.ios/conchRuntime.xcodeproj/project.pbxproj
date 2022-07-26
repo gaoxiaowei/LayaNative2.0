@@ -637,7 +637,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "chmod u+x $SRCROOT/../../copyLib.sh\n$SRCROOT/../../copyLib.sh\n";
+			shellScript = "chmod u+x $SRCROOT/../../copyLib.sh\n$SRCROOT/../../copyLib.sh\n\n\nchmod u+x $SRCROOT/../../copyInclude.sh\n$SRCROOT/../../copyInclude.sh\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
