@@ -80,7 +80,10 @@ namespace laya
  
             delete m_pFileResManager;
             m_pFileResManager = NULL;
-            JCScriptRuntime::s_JSRT->m_pFileResMgr =NULL;
+            if(JCScriptRuntime::s_JSRT && JCScriptRuntime::s_JSRT->m_pFileResMgr){
+                JCScriptRuntime::s_JSRT->m_pFileResMgr =NULL;
+            }
+            
             JCAudioManager::freeFileResManager();
         }
         if (m_pImageManager)
