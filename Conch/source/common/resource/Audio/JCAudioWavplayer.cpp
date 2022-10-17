@@ -108,6 +108,10 @@ void JCAudioWavPlayer::checkWavePlayEnd()
 //------------------------------------------------------------------------------
 OpenALSourceInfo* JCAudioWavPlayer::playAudio( JCAudioInterface* p_pAudio,const std::string& p_sSrc, bool bIsOgg)
 {
+    if (m_pFileResManager == NULL) {
+        return NULL;
+    }
+
     JCWaveInfo* pInfo = NULL;
 	MapWaveInfoIter iter = m_vWaveInfos.find( p_sSrc );
 	if( iter != m_vWaveInfos.end() )

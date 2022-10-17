@@ -87,11 +87,19 @@ namespace laya
 	    {
             std::lock_guard<std::mutex> lk(m_mutex);
 		    m_sAudioManager->m_pWavPlayer->ClearAllWaveInfo();
+            m_sAudioManager->m_pWavPlayer->m_pFileResManager = NULL;
 		    m_sAudioManager->ClearAllAudioBufferPlay();
 
 		    delete m_sAudioManager;
 		    m_sAudioManager = NULL;
 	    }
+    }
+    void  JCAudioManager::freeFileResManager(){
+        if( m_sAudioManager != NULL )
+        {
+            m_sAudioManager->m_pWavPlayer->m_pFileResManager = NULL;
+        }
+      
     }
     //------------------------------------------------------------------------------
     void JCAudioManager::createMp3player()

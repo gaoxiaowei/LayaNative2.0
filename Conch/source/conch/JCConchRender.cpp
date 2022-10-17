@@ -16,6 +16,7 @@
 #include "JSWrapper/LayaWrap/JSConchConfig.h"
 #include "JCConch.h"
 #include "JSWrapper/LayaWrap/JSLayaGL.h"
+#include "Audio/JCAudioManager.h"
 #include <LayaGL/JCLayaGLDispatch.h>
 
 extern int g_nInnerHeight;
@@ -76,8 +77,11 @@ namespace laya
                 delete m_pFileResManager->m_pFileCache;
                 m_pFileResManager->m_pFileCache = NULL;
             }
+ 
             delete m_pFileResManager;
             m_pFileResManager = NULL;
+            JCScriptRuntime::s_JSRT->m_pFileResMgr =NULL;
+            JCAudioManager::freeFileResManager();
         }
         if (m_pImageManager)
         {

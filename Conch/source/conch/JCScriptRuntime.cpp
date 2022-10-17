@@ -196,6 +196,8 @@ namespace laya
             m_pGCCmd = NULL;
         }
 
+        JCAudioManager::DelInstance();
+        
         JCWebGLPlus::releaseInstance();
         JSLayaGL::releaseInstance();
 
@@ -269,7 +271,10 @@ namespace laya
         //文件资源不能跨js环境使用，所以必须clear
         // 例如一个资源正在下载，则可能的问题：1.可能会上个线程取消了，不会再回调， 2. 自己希望回调的是上个js环境，也无法传给新的js环境。
         // 所以需要clear。
-        m_pFileResMgr->clear();
+        if(m_pFileResMgr){
+            m_pFileResMgr->clear();
+        }
+       
         start(m_strStartJS.c_str());
 #ifndef __APPLE_
         if (g_kSystemConfig.m_nThreadMODE == THREAD_MODE_SINGLE)

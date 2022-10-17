@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JSFileReader.cpp
 @brief			
 @author			James
@@ -208,11 +208,14 @@ namespace laya
                 file = std::string("file:///") + file;
             }
             JCFileResManager* pfsMgr = JCScriptRuntime::s_JSRT->m_pFileResMgr;
-            JCFileRes* res = pfsMgr->getRes(file,m_nConnTimeout, m_nOptTimeout);
-            res->setIgnoreError(m_bIgnoreError);
-            std::weak_ptr<int> cbref(m_CallbackRef);
-            res->setOnReadyCB(std::bind(&JsFileReader::onDownloadEnd, this, p_pFile, std::placeholders::_1, cbref));
-            res->setOnErrorCB(std::bind(&JsFileReader::onDownloadErr, this, std::placeholders::_1, std::placeholders::_2, cbref));
+            if(pfsMgr){
+                JCFileRes* res = pfsMgr->getRes(file,m_nConnTimeout, m_nOptTimeout);
+                res->setIgnoreError(m_bIgnoreError);
+                std::weak_ptr<int> cbref(m_CallbackRef);
+                res->setOnReadyCB(std::bind(&JsFileReader::onDownloadEnd, this, p_pFile, std::placeholders::_1, cbref));
+                res->setOnErrorCB(std::bind(&JsFileReader::onDownloadErr, this, std::placeholders::_1, std::placeholders::_2, cbref));
+            }
+        
         }
     }
     bool JsFileReader::onDownloadEnd(JsFile *p_pFile, void* p_pRes, std::weak_ptr<int> callbackref)

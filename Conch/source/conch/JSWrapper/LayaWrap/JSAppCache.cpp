@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JSAppCache.cpp
 @brief			
 @author			James
@@ -48,12 +48,15 @@ namespace laya
             JCFileResManager* pFileResManager = JCScriptRuntime::s_JSRT->m_pFileResMgr;
             //TODO 这段代码有点恶心，日后再整理
             //为了刷新的时候，再次设置fileCache，所以要把原来的删除掉
-            if (pFileResManager->m_pFileCache)
+            if (pFileResManager && pFileResManager->m_pFileCache)
             {
                 delete pFileResManager->m_pFileCache;
                 pFileResManager->m_pFileCache = NULL;
             }
-            pFileResManager->setFileCache(m_pSvFileCache);
+            if(pFileResManager){
+                pFileResManager->setFileCache(m_pSvFileCache);
+            }
+        
         }
 	}
 	JsAppCache::JsAppCache(const char* p_pszURL)
@@ -71,12 +74,15 @@ namespace laya
             JCFileResManager* pFileResManager = JCScriptRuntime::s_JSRT->m_pFileResMgr;
             //TODO 这段代码有点恶心，日后再整理
             //为了刷新的时候，再次设置fileCache，所以要把原来的删除掉
-            if (pFileResManager->m_pFileCache)
+            if (pFileResManager&&pFileResManager->m_pFileCache)
             {
                 delete pFileResManager->m_pFileCache;
                 pFileResManager->m_pFileCache = NULL;
             }
-            pFileResManager->setFileCache(m_pSvFileCache);
+            if(pFileResManager){
+                pFileResManager->setFileCache(m_pSvFileCache);
+            }
+            
         }
         m_pSvFileCache->switchToApp(p_pszURL);
 		AdjustAmountOfExternalAllocatedMemory( 12+13+128);
@@ -248,7 +254,11 @@ namespace laya
 	std::string JsAppCache::loadCachedURL( const char* p_pszUrl )
     {
         JCFileResManager* pfsMgr = JCScriptRuntime::s_JSRT->m_pFileResMgr;
-		laya::JCFileRes* res = pfsMgr->getRes(p_pszUrl);
+        if(pfsMgr ==NULL){
+            return "";
+        }
+        
+        laya::JCFileRes* res = pfsMgr->getRes(p_pszUrl);
 		JCBuffer buff;
 		std::string strOut="";
 		if( res->loadFromCache(buff,false) && buff.m_pPtr)

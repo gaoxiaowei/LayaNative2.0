@@ -1,4 +1,4 @@
-﻿/**
+/**
 @file			JCAudioManager.h
 @brief			
 @author			James
@@ -118,6 +118,7 @@ namespace laya
 	    JCWaveInfo* FindWaveInfo( const std::string& p_sUrl );
 
 	    void update();
+        static void  freeFileResManager();
 
     public:
 
