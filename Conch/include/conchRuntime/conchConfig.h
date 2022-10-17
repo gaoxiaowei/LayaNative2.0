@@ -1,9 +1,9 @@
 /**
- @file            conchConfig.h
+ @file			conchConfig.h
  @brief         配置用到的，比如版本号 或者描述信息
- @author        James
- @version        1.0
- @date            2013_7_5
+ @author		James
+ @version		1.0
+ @date			2013_7_5
  @company       LayaBox
  */
 #import "UIKit/UIKit.h"

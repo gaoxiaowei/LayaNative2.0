@@ -160,6 +160,10 @@ namespace laya
             delete m_pScrpitRuntime;
             m_pScrpitRuntime = NULL;
         }
+        if (m_pFileResMgr) {
+           delete m_pFileResMgr;
+           m_pFileResMgr = NULL;
+        }
 #ifdef JS_V8_DEBUGGER
         if (m_pDbgAgent) 
         {
